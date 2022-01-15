@@ -1,0 +1,6 @@
+.name-price {
+  font-weight: 400;
+  display: flex;
+  justify-content: space-between;
+  font-size: 1rem;
+}
